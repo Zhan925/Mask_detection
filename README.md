@@ -13,7 +13,7 @@ You should also follow the Hello AI World Tutorial(https://github.com/dusty-nv/j
 1. Set up the jetson-inference\
 You can set up the jetson-inference following this tutorial https://github.com/dusty-nv/jetson-inference
 
-2. Get to the right dictory\
+2. Get to the right directory\
 $ cd ~/jetson-inference/python/training/detection/ssd
 
 3. Install this application and the dependent modules\
@@ -36,7 +36,7 @@ $ cd ~/jetson-inference
 2. Run the docker\
 $  docker/run.sh --volume ~/jetson-inference/python/training/detection/ssd/Mask_detection:/jetson-inference/python/training/detection/ssd
 
-3. Go to the dictory\
+3. Go to the directory\
 $ cd /jetson-inference/python/training/detection/ssd/Mask_detection
 
 4. Run the program\
