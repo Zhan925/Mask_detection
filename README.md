@@ -43,6 +43,8 @@ $ cd /jetson-inference/python/training/detection/ssd/Mask_detection
 $  python3 my-detection.py\
 Note: it takes time for the first-run, so just be patient.
 
+## Demonstration
+https://youtu.be/oY5Ss2yr6O8
 ## Liscence
 
 \#\
